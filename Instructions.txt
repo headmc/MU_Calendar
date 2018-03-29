@@ -1,0 +1,5 @@
+1. Open 2018_.html to get started 
+2. Click on any month to explore options or events for that month
+3. Navigate using labeled buttons above calendar image, or links below calendar image. 
+4. As this is intended to a be a supplement to an existing course catalog, any link to a class would take the user to that course listing, or its syllabus, if the course was not yet open for registration. Navigation would then be used at the browser level, as it is for any inside-the-same-site navigation. 
+5. If the user clicks a link that is outside the host site (moonshineuniversity.com), said links will open new windows, so as not to navigate the user away from the main site.
